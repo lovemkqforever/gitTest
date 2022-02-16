@@ -7,5 +7,6 @@ package com.dinghanwen.git;
 public class gitTest {
     public static void main(String[] args) {
         System.out.println("hello,makeqing");
+        System.out.println("i want to marry with you");
     }
 }
